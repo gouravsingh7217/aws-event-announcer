@@ -9,7 +9,7 @@ The system follows a decoupled, serverless workflow:
 2.  **API Layer:** **AWS API Gateway** receives REST requests from the frontend.
 3.  **Compute:** **AWS Lambda** (Python/Node.js) processes the announcement logic.
 4.  **Notification:** **AWS SNS** (Simple Notification Service) sends emails/SMS to subscribers instantly.
-
+gg
 
 
 ---
